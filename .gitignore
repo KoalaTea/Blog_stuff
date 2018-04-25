@@ -1,0 +1,4 @@
+/blog_stuff
+__pycache__
+*.pyc
+tls/
